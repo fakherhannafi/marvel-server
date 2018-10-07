@@ -1,0 +1,28 @@
+{
+  "name": "marvel-app",
+  "version": "1.0.0",
+  "description": "This app has been created to test my full Stack skills to PEAKS company",
+  "scripts": {
+    "start": "SET NODE_ENV=dev && node app.js",
+    "test": "jest"
+  },
+  "license": "MIT",
+  "contributors": [
+    "Fakher HANNAFI"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fakhrovski/marvel-app.git"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "webcom": "^2.6.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^2.0.1",
+    "jest": "^23.2.0",
+    "net": "^1.0.2"
+  }
+}

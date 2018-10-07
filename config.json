@@ -1,0 +1,8 @@
+{
+  "url_baas": "https://io.datasync.orange.com/base/marvel-app/",
+  "marvel_host": "http://gateway.marvel.com//v1/public/characters",
+  "ts": "1",
+  "public_key": "4ea3c215e17d5c720d07ee6adcdf6f01",
+  "hash": "b73b6baee50372117b3562159054d15d",
+  "port": "8080"
+}
