@@ -1,5 +1,5 @@
 # marvel-server
-Node server that call marvel API and push characters Data to cloud storage
+Node server that calls marvel API and pushes characters Data to cloud storage
 
 ## Requirement
 install node.js v8.11
